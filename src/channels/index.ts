@@ -5,6 +5,9 @@
 
 // gmail
 
+// paperclip
+import './paperclip.js';
+
 // slack
 
 // telegram
